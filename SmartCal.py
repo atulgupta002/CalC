@@ -130,7 +130,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "SmartCal"))
         self.push1Button.setText(_translate("MainWindow", "1"))
         self.push1Button.setShortcut(_translate("MainWindow", "1"))
         self.push2Button.setText(_translate("MainWindow", "2"))
